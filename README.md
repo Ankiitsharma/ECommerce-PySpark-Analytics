@@ -1,7 +1,3 @@
-Author
-
-Ankit Sharma – Data Engineer | PySpark Enthusiast
-
 # E-Commerce Order Analytics & Customer Segmentation with PySpark
 
 This project demonstrates an end-to-end E-Commerce data processing and analytics pipeline using PySpark on a large dataset. 
@@ -57,4 +53,8 @@ Identified top-spending customers and segmented them for targeted marketing.
 Analyzed order patterns by time and region.
 
 Built a scalable Spark pipeline that can handle millions of orders efficiently.
+
+Author
+
+Ankit Sharma – Data Engineer | PySpark Enthusiast
 
